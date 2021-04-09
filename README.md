@@ -1,1 +1,1 @@
-## This is a demo EF core unit test project
+## Test get by ID and get all list in EF Core
